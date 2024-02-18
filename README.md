@@ -1,0 +1,2 @@
+# 2020-wendong-recurrency
+A recurrency of algorithms in paper named Efficiently_Answering_Span-Reachability_Queries_in_Large_Temporal_Graphs
